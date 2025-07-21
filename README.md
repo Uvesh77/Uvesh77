@@ -69,9 +69,8 @@
 ---
 
 ### 📜 Inspiring Thought
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?text=When%20the%20road%20ahead%20is%20hidden%20in%20mist%2C%20take%20one%20brave%20step%20%E2%80%94%20and%20another.%20The%20path%20will%20reveal%20itself%2C%20and%20you'll%20find%20your%20way%20to%20the%20place%20you%20were%20meant%20to%20reach.&center=true&theme=dark&font=Georgia" />
-</p>
+
+> *“When the road ahead is hidden in mist, take one brave step — and another. The path will reveal itself, and you'll find your way to the place you were meant to reach.”*  
 
 ---
 
