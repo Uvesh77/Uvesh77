@@ -71,7 +71,7 @@
 ### 📜 Inspiring Thought
 
 <p align="center">
-  <img src="./assets/quote.png" width="600" />
+  <img src="./assets/quote.png" width="200" />
 </p>
 
 ---
