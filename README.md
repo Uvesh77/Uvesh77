@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#f97316">Uvesh Mulla</span></h1>
-<h3 align="center">💻 Software Developer | Spring Boot Enthusiast | Cloud Intern @ Cloud Ambassador</h3>
+<h1 align="center">👋 Hey there! I'm <span style="color:#f97316">Mahmaduvesh Mullan</span></h1>
+<h3 align="center">💻 Aspiring Software Developer | Inovating with Cloud Technologies | Spring Boot Specialist | Backend & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26Ffgp0pFG3xpP1tg/giphy.gif" width="200" height="200"/>
@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 - 🎓 Master of Computer Applications (MCA)
-- 💼 Currently learning Cloud & AI integration at **Cloud Ambassador**
-- 🌐 Interested in Backend Development, DevOps & Data Engineering
+- 💼 Passionate about backend development, scalable systems, and real-world projects
+- 🔬 Exploring AI, voice cloning, and automation tools
 - 📍 Based in Gujarat, India
 - 🧠 Believer in **Lifelong Learning**
 
@@ -19,7 +19,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,python,git,github,vscode,intellij,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,gcp,aws,hibernate,html,css,js,python,git,github,vscode,intellij,postman,firebase" />
 </p>
 
 ---
@@ -51,6 +51,18 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Uvesh77&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Uvesh77&theme=tokyonight" />
+</p>
+
+---
+
+### 📽️ Project Demo (Add When Available)
+
+<p align="center">
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="300" />
+    <br>
+    <b>Click to Watch My Demo</b>
+  </a>
 </p>
 
 ---
