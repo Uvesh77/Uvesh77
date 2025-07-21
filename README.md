@@ -1,61 +1,84 @@
-# 👋 Hi there, I'm Uvesh Mullan!  
-### 💻 Aspiring Software Developer | Spring Boot Enthusiast | Cloud Intern @ Cloud Ambassador
-
----
-
-### 🚀 About Me
-🎓 Master's in Computer Applications  
-💼 Passionate about backend development, cloud integration, and building scalable web apps.  
-🌐 Currently exploring AI, Cloud Engineering, and DevOps practices.  
-📍 Based in Gujarat, India
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Languages**: Java, SQL, HTML, CSS, JavaScript, Python (basic)
-- **Frameworks**: Spring Boot, Hibernate JPA, Thymeleaf
-- **Database**: MySQL
-- **Cloud**: GCP (in training), Firebase
-- **Tools**: Git, GitHub, Postman, VS Code, IntelliJ, JIRA, Figma
-- **Other**: Razorpay Integration, Manual Testing Tools
-
----
-
-### 📌 Featured Projects
-
-🔹 **[TechHub E-Commerce Web App](https://github.com/Uvesh77/TechHub-Ecommerce)**  
-_Built with Spring Boot + MySQL + Razorpay | Admin + Customer Dashboard | Pagination & Secure Payment_  
-
-🔹 **[Car Rental System](https://github.com/Uvesh77/Car-Rental-System)**  
-_A PHP-MySQL project to manage vehicle bookings, admin dashboard, and user panel_
-
-🔹 **[Voice Cloning with Python (AI)](https://github.com/Uvesh77/Voice-Cloning-AI)**  
-_A fun exploration in voice synthesis using Python & open-source libraries_
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">👋 Hey there! I'm <span style="color:#f97316">Uvesh Mulla</span></h1>
+<h3 align="center">💻 Software Developer | Spring Boot Enthusiast | Cloud Intern @ Cloud Ambassador</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Uvesh77&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Uvesh77&theme=radical" />
+  <img src="https://media.giphy.com/media/26Ffgp0pFG3xpP1tg/giphy.gif" width="200" height="200"/>
 </p>
 
 ---
 
-### 🗂️ Latest Activity
+### 🚀 About Me
+- 🎓 Master of Computer Applications (MCA)
+- 💼 Currently learning Cloud & AI integration at **Cloud Ambassador**
+- 🌐 Interested in Backend Development, DevOps & Data Engineering
+- 📍 Based in Gujarat, India
+- 🧠 Believer in **Lifelong Learning**
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,python,git,github,vscode,intellij,postman,firebase" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy Showcase
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Uvesh77&theme=onestar&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+🎯 [**TechHub E-Commerce**](https://github.com/Uvesh77/TechHub-Ecommerce)  
+> 🛒 Spring Boot | Razorpay | Pagination | Admin + Customer Dashboard  
+> <img src="https://user-images.githubusercontent.com/97314422/194719873-bf6a9e2a-ffde-4b9a-bdc9-6b155f93405d.gif" width="500" />
+
+🚗 [**Car Rental System**](https://github.com/Uvesh77/Car-Rental-System)  
+> PHP | MySQL | Admin Panel | Booking System
+
+🧠 [**Voice Cloning with Python (AI)**](https://github.com/Uvesh77/Voice-Cloning-AI)  
+> Python | Text-to-Speech | Deep Learning Models
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Uvesh77&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Uvesh77&theme=tokyonight" />
+</p>
+
+---
+
+### 🗓️ Latest GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### 📫 Connect with Me
+### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/uvesh-mullan-434161257)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:uvesh.mullan01@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/uvesh-mullan-434161257">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:uvesh.mullan01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “Consistency beats talent when talent doesn’t work consistently.”
+### 📜 Fun Quote
+> *“Consistency beats talent when talent doesn’t work consistently.”*
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub!;Keep+Coding+💻;Let’s+Build+Something+Amazing!&center=true&width=380&height=45">
+</p>
