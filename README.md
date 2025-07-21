@@ -34,14 +34,14 @@
 
 ### 🌟 Featured Projects
 
-🎯 [**TechHub E-Commerce**](https://github.com/Uvesh77/TechHub-Ecommerce)  
+🎯 [**TechHub E-Commerce**](https://github.com/Uvesh77/TechHub)  
 > 🛒 Spring Boot | Razorpay | Pagination | Admin + Customer Dashboard  
 > <img src="https://user-images.githubusercontent.com/97314422/194719873-bf6a9e2a-ffde-4b9a-bdc9-6b155f93405d.gif" width="500" />
 
-🚗 [**Car Rental System**](https://github.com/Uvesh77/Car-Rental-System)  
+🚗 [**Car Rental System**]  
 > PHP | MySQL | Admin Panel | Booking System
 
-🧠 [**Voice Cloning with Python (AI)**](https://github.com/Uvesh77/Voice-Cloning-AI)  
+🧠 [**Voice Cloning with Python (AI)**]  
 > Python | Text-to-Speech | Deep Learning Models
 
 ---
