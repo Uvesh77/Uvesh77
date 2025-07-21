@@ -70,7 +70,9 @@
 
 ### 📜 Inspiring Thought
 
-> *“When the road ahead is hidden in mist, take one brave step — and another. The path will reveal itself, and you'll find your way to the place you were meant to reach.”*  
+<p align="center">
+  <img src="./assets/quote.png" width="600" />
+</p>
 
 ---
 
