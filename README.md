@@ -2,7 +2,7 @@
 <h3 align="center">💻 Aspiring Software Developer | Inovating with Cloud Technologies | Spring Boot Specialist | Backend & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhrNjhlYWc3c3Rua2xtbXV4bnZ2dndvdXhyY2txenZtNW54ZHB3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="200" height="200" alt="Waving animation"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhrNjhlYWc3c3Rua2xtbXV4bnZ2dndvdXhyY2txenZtNW54ZHB3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="300" height="400" alt="Waving animation"/>
 </p>
 
 ---
