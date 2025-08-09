@@ -2,7 +2,7 @@
 <h3 align="center">💻 Aspiring Software Developer | Inovating with Cloud Technologies | Spring Boot Specialist | Backend & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/26Ffgp0pFG3xpP1tg/giphy.gif" width="200" height="200" />
+  <img src="https://i.giphy.com/media/YOUR_NEW_GIF_ID/giphy.gif" width="200" height="200" />
 </p>
 
 ---
