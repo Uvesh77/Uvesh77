@@ -9,8 +9,10 @@
 
 ### 🚀 About Me
 - 🎓 Master of Computer Applications (MCA)
-- 💼 Passionate about backend development, scalable systems, and real-world projects
-- 🔬 Exploring AI, voice cloning, and automation tools
+- 💼 Experience in Cloud Engineering (AWS → GCP migrations, automation, and architecture design)
+- 🛠 Skilled in Spring Boot, backend development, and scalable web applications
+- ☁️ Hands-on with GCP & AWS services, Kubernetes, Docker, and CI/CD tools
+- 🏆 Awarded Best Intern of the Year 2023–24 for problem-solving and impactful contributions
 - 📍 Based in Gujarat, India
 - 🧠 Believer in **Lifelong Learning**
 
